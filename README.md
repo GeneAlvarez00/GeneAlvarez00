@@ -1,6 +1,6 @@
 # GeneAlvarez00.github.io
 
-###Education 
+### Education 
 
 Binghamton University 
 -2022-2023
