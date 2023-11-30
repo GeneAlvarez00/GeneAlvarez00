@@ -3,6 +3,7 @@
 ### Education 
 
 Binghamton University, State University of New York, School of Management
+
 Master of Business Administration, Concentration in MIS
 Spring 2023
 
